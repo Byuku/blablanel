@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Context
+Poc Blablacar-like to try React. Using React, React-router, Sass
+
 ## Available Scripts
 
 In the project directory, you can run:
